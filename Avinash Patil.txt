@@ -1,0 +1,26 @@
+Avinash Patil
+📱Phone Number -8356080112  |Email | LinkedIn | GitHub
+SUMMARY:
+Full stack developer with expertise in front-end and back-end development, experienced in leading cross-functional teams.
+TECHNICAL SKILLS: 
+•	Frontend - JavaScript, React.js, Redux, TypeScript, Bootstrap, Tailwind
+•	Backend - Node.js, Express.js, Python, PHP
+•	Database- MySQL, MongoDB, PostgreSQL
+EXPRIANCE:
+Frontend Developer – Imperio Railing Systems (Internship) | Apr 2024 – Present
+•	Developed and maintained the company’s landing page, ensuring a user-friendly and visually appealing interface.
+•	Created static websites for company presentations, improving the digital presence and brand visibility.
+•	Designed and implemented an e-commerce website, integrating functionalities user interface and user experience.
+•	 Collaborated with the development team to optimize front-end performance and cross-browser compatibility.
+Data Analyst – NSE Cogencis | May 2023 – April 2024
+      NSE Cogencis is a leading data, news and market intelligence provider to financial market professionals in India.
+•	All mutual funds and insurance historical data scrapping using python selenium.
+•	Insurance historical Ulip NAV scrapping and downloading live data automation.
+•	Interpreting data analyzing results using statical techniques.
+•	Quality check of funds data and analyzing & formulating as per client requirements.
+•	Analyzing data history and rectification as per the changes.
+•	Working on various project allotted into the process.
+•	Reconciliation data to our terminal database.
+Associate – Kotak Mahindra Bank | January 2022 – September 2022
+•	Credit card department to generate lead and cold call to existing customers and sell credit card. Keeping good relation with customers and solve query. 
+
